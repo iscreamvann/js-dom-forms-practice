@@ -15,7 +15,7 @@
    - Add functionality to dynamically add and remove form elements (e.g., additional email fields) using JavaScript. This could involve adding buttons to "Add Email" or "Remove Email" dynamically.
 
 3. **Error Handling:**
-   - Implement error handling to display meaningful error messages to users when form submission fails due to validation errors. These messages could be displayed dynamically on the page rather than using browser alerts.
+   - Implement error handling to display meaningful error messages to users when form submission fails due to validation errors. These messages should be displayed dynamically on the page rather than using browser alerts.
 
 4. **Real-Time Feedback:**
    - Provide real-time feedback to users as they fill out the form, such as displaying a message indicating whether the entered email address is available or already in use.
